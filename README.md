@@ -2,7 +2,7 @@ VRMocap is a project for Unreal Engine used to drive humanoid character animatio
 
 Quick Start Video:
 [![YouTubeVideo](https://i.imgur.com/OdwBANp.png)](https://youtu.be/w9ZhOewWkAQ)
-
+https://youtu.be/w9ZhOewWkAQ
 
 Documentation
 https://github.com/Megasteakman/VRMocap/wiki
