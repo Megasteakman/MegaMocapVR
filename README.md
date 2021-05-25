@@ -1,7 +1,8 @@
 VRMocap is a project for Unreal Engine used to drive humanoid character animation live in editor using steamvr hardware.  This motion can be used in take recorder for the creation of cinematics/animations or be used in streaming for VTuber applicaions.
 
 Quick Start Video:
-https://youtu.be/w9ZhOewWkAQ
+[![YouTubeVideo](https://i.imgur.com/OdwBANp.png)](https://youtu.be/w9ZhOewWkAQ)
+
 
 Documentation
 https://github.com/Megasteakman/VRMocap/wiki
