@@ -12,4 +12,4 @@ The project also works in Unreal Engine 5!  https://twitter.com/Megasteakman/sta
 
 Thanks so much, and I hope this project helps you create awesome streams and animations.  I want this tool to be free for everyone to use, so if you add any features that might benefit others or fix any workflow painpoints I would love to incorporate those changes into the core of VRMocap! 
 
-![Alt Text](https://media.giphy.com/media/aQe8neXxFfvbUGRadh/giphy.gif)
+![](https://media.giphy.com/media/aQe8neXxFfvbUGRadh/giphy-downsized-large.gif)
