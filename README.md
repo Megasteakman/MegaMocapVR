@@ -1,6 +1,7 @@
 Before you use that tool, make sure you have watched Megasteakman' youtube video.
 
 https://www.youtube.com/watch?v=w9ZhOewWkAQ
+
 https://www.youtube.com/watch?v=crv6AIbadSo
 
 If you use vive controller instead of valve index controller. Then you should replace the original VRMocap_Player_pawn_BP with the VRMocap_PlayerPawn_ViveContorller_BP in this submission when you use VRMocap. And change the mapping value input by the controller according to project setting.png, or use project setting input.ini to import directly.
