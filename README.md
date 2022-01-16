@@ -4,9 +4,7 @@ https://www.youtube.com/watch?v=w9ZhOewWkAQ
 
 https://www.youtube.com/watch?v=crv6AIbadSo
 
-If you use vive controller instead of valve index controller. Then you should replace the original VRMocap_Player_pawn_BP with the VRMocap_PlayerPawn_ViveContorller_BP in this submission when you use VRMocap. And change the mapping value input by the controller according to project setting.png, or use project setting input.ini to import directly.
-
-
+If you use vive controller or mixed reality controllers, try importing the 'Input_IndexViveMixedReality.ini' inputs into your Project Settings/Input.
 
 
 ![](Examples.gif)
@@ -15,7 +13,7 @@ VRMocap is a project for Unreal Engine used to drive humanoid character animatio
 
 Quick Start Video:
 [![YouTubeVideo](https://i.imgur.com/OdwBANp.png)](https://youtu.be/crv6AIbadSo)
-Complete set-up guide using Unreal Engine 5, although you may have to chose a pre 4.27 commit!
+Complete set-up guide using Unreal Engine 5, although you may have to chose a pre 4.27 commit!  Access previous versions here: https://github.com/Megasteakman/VRMocap/commits/main
 https://youtu.be/crv6AIbadSo
 
 Documentation
