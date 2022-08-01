@@ -1,6 +1,6 @@
 ![](Examples.gif)
 
-MegaMocapVR is a project for Unreal Engine used to drive humanoid character animation live in editor using steamvr hardware.  This motion can be used in take recorder for the creation of cinematics/animations or be used in streaming for VTuber applicaions.
+MegaMocapVR is a project for Unreal Engine used to drive humanoid character animation live in editor using steamvr hardware.  This motion can be used in take recorder for the creation of cinematics/animations or be used in streaming for VTuber applications.
 
 **Quick Start Video**
 [![YouTubeVideo](https://i.imgur.com/OdwBANp.png)](https://youtu.be/crv6AIbadSo)
