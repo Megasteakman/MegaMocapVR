@@ -1,15 +1,15 @@
 ![](Examples.gif)
 
-VRMocap is a project for Unreal Engine used to drive humanoid character animation live in editor using steamvr hardware.  This motion can be used in take recorder for the creation of cinematics/animations or be used in streaming for VTuber applicaions.
+MegaMocapVR is a project for Unreal Engine used to drive humanoid character animation live in editor using steamvr hardware.  This motion can be used in take recorder for the creation of cinematics/animations or be used in streaming for VTuber applicaions.
 
 **Quick Start Video**
 [![YouTubeVideo](https://i.imgur.com/OdwBANp.png)](https://youtu.be/crv6AIbadSo)
-Complete set-up guide using Unreal Engine 5 done using early access: the process still applies to UE 5.0 
-https://github.com/Megasteakman/VRMocap/commits/main
+Complete set-up guide using Unreal Engine 5 done using early access: the process still applies to UE 5.0.  Just replace the words 'VRMocap' with 'MMVR' and you should be goog to go!
+https://github.com/Megasteakman/MegaMocapVR/commits/main
 https://youtu.be/crv6AIbadSo
 
 **Documentation**
-https://github.com/Megasteakman/VRMocap/wiki
+https://github.com/Megasteakman/MegaMocapVR/wiki
 
 If you use vive controller or mixed reality controllers, try importing the 'Input_IndexViveMixedReality.ini' inputs into your Project Settings/Input.
 
