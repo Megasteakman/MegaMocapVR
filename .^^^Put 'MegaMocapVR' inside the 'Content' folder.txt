@@ -1,0 +1,8 @@
+Do not put the entire extracted directory into your Unreal Engine project's 'Content' folder.
+
+Only the "MegaMocapVR" folder should be put in 'Content' using Windows File Explorer (they cannot be dragged into Unreal Engine).
+
+For more set up instructions, visit
+https://github.com/Megasteakman/MegaMocapVR/wiki
+or
+https://www.youtube.com/watch?v=w9ZhOewWkAQ&list=PLBKiYFnvpQM48aj7fwWN8P9WzUQM3veWL
