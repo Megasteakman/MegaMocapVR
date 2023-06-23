@@ -2,6 +2,9 @@
 
 MegaMocapVR is a project for Unreal Engine used to drive humanoid character animation live in editor using steamvr hardware.  This motion can be used in take recorder for the creation of cinematics/animations or be used in streaming for VTuber applications.
 
+Mega Mocap VR is the proud recipient of an Epic MegaGrant!
+
+[![EpicMegaGrantsBadge](https://i.imgur.com/7O3F2Eh.png)]()
 
 **Check out our 2022 sizzle reel!**
 [![YouTubeVideo](https://i.imgur.com/mn51yVm.jpg)](https://youtu.be/mf0ioDCkrsU)
